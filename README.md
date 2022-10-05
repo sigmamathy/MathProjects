@@ -1,6 +1,6 @@
 # List of MathProjects
 
-1. **[LagrangePolynomial:](#LagrangePolynomial.cpp)** started in `08-10-2022`.
+1. **[LagrangePolynomial:](#lagrangepolynomialcpp)** started in `08-10-2022`.
 
 ## LagrangePolynomial.cpp
 
