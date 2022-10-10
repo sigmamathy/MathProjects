@@ -148,6 +148,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="src\LagrangePolynomial.cpp" />
+    <ClCompile Include="src\VisualBinary.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\PROJECTS" />
